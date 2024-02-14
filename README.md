@@ -16,18 +16,18 @@ The dataset provided by Kaggle includes over half a million data points, with ea
 ##**Chapters**
 
 1. Explatory Data Analysis
-  //n 1.1. Univariate Data Analysis
-   1.2. Bivariate Data analysis
-   1.3. Multvariate Data analysis
+   - 1.1. Univariate Data Analysis
+   - 1.2. Bivariate Data analysis
+   - 1.3. Multvariate Data analysis
 
 2. Data Cleaning
 3. Feature engineering
 4. Feature selection
 5. Model training
-    5.1. Decision tree
-    5.2. Random Forest tree
-    5.3. Extra tree classifier
-    5.4. XG Boost Classifier
+   - 5.1. Decision tree
+   - 5.2. Random Forest tree
+   - 5.3. Extra tree classifier
+   - 5.4. XG Boost Classifier
 6. Model evaluation 
     
 
